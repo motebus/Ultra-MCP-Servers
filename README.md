@@ -1,4 +1,4 @@
-# Ultra Servers
+# Ultra-MCP-Servers
 
 Welcome to the **Model Context Protocol (MCP) Servers** repository! This project enables you to leverage and extend the power of MCP by creating and managing your own servers.
 
